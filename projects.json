@@ -3648,6 +3648,12 @@
 {
   "title": "Timeline Ordering Game 🕒",
   "description": "A drag-and-drop game where users arrange events into the correct order.",
+  "title": "Guess Your Friend 🎯😄",
+  "description": "A fun game where users predict how their friend would answer questions.",
+  "title": "Continuous Line Drawing Challenge ✍️",
+  "description": "A drawing challenge where users must draw without lifting the mouse.",
+  "title": "Color Sorting Puzzle 🧪🎨",
+  "description": "A colorful logic puzzle where users sort layered colors into correct jars.",
   "title": "Spot the Mistake 🔍",
   "description": "A visual challenge where users find logical or UI mistakes between similar layouts.",
   "title": "Emoji Emotion Guess Game 😄🤔",
@@ -3658,12 +3664,28 @@
     "HTML",
     "CSS",
     "JavaScript",
+    "Canvas",
+    "Game",
+    "Creativity"
+  ],
+  "links": {
+    "live": "./projects/continuous-line-drawing-challenge/index.html"
     "Game",
     "Logic",
     "Education"
   ],
   "links": {
     "live": "./projects/timeline-ordering-game/index.html"
+    "Social",
+    "Empathy"
+  ],
+  "links": {
+    "live": "./projects/guess-your-friend-game/index.html"
+    "Logic",
+    "Puzzle"
+  ],
+  "links": {
+    "live": "./projects/color-sorting-puzzle/index.html"
     "Brain Training",
     "UI Awareness"
   ],
