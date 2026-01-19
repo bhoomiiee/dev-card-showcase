@@ -357,12 +357,6 @@
             }
         });
 
-        //dark/light theme based on system preference
-       const currentTheme = document.body.getAttribute('data-theme') || 'dark';
-const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-document.body.setAttribute('data-theme', newTheme);
-localStorage.setItem('theme', newTheme);
-
     </script>
 </body>
 
