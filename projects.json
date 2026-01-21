@@ -4235,6 +4235,25 @@
         "name": "Amballa Sneha",
         "github": "https://github.com/Sneha-Amballa"
     }
+},
+{
+  "title": "voidrun",
+  "description": "voidrun is a fast-paced endless runner game set in a minimal void environment. It challenges players to react quickly and survive increasing difficulty using pure HTML, CSS, and JavaScript.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Game",
+    "Endless Runner"
+  ],
+  "links": {
+    "live": "./projects/voidrun/index.html"
+  },
+  "author": {
+    "name": "PavanKarthik",
+    "github": "https://github.com/pavanakarthik12"
+  }
 }
+
 
 ]
