@@ -4138,8 +4138,26 @@
     "name": "PavanKarthik",
     "github": "https://github.com/pavanakarthik12"
   }
+},
+{
+    "title": "Typing Words Arcade Game",
+    "description": "A retro-style typing game where words fall from the top of the screen and players must type them correctly before they reach the bottom, featuring scoring, combos, and increasing difficulty.",
+    "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Canvas",
+        "Game",
+        "Retro",
+        "Typing"
+    ],
+    "links": {
+        "live": "#"
+    },
+    "author": {
+        "name": "Amballa Sneha",
+        "github": "https://github.com/Sneha-Amballa"
+    }
 }
-
-
 
 ]
