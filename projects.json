@@ -16,6 +16,24 @@
             "github": "https://github.com/Sneha-Amballa"
         }
     },
+     {
+        "title": "Interactive Periodic Table",
+        "description": "An interactive periodic table that provides detailed information about each element, including atomic number, symbol, atomic mass, and electron configuration. Features search functionality and responsive design for easy access on all devices.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PDF",
+            "Document Processing"
+        ],
+        "links": {
+            "live": "./projects/InteractivePeriodicTable/index.html"
+        },
+        "author": {
+            "name": "Neeru",
+            "github": "https://github.com/neeru24"
+        }
+    },
     {
         "title": "PDF Watermark Tool",
         "description": "Browser-based tool to add text/image watermarks to PDFs with full customization. Process files locally for privacy.",
