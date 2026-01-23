@@ -3979,10 +3979,24 @@
             "github": "https://github.com/Sneha-Amballa"
         }
     },
-/// Bubbble Ppop Blitzzzzzzzzzzzz
     {
         "title": "Stack Builder",
         "description": "Timing-based stacking game with precision overlap where you drop moving blocks to build the tallest aligned tower—miss the overlap and it tumbles.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Game"
+        ],
+        "links": {
+            "live": "./projects/stack-builder/index.html"
+        },
+        "author":{
+            "name": "Gupta-02",
+            "github": "https://github.com/Gupta-02"
+        }
+    },
+    {
         "title": "Bubble Pop Blitz",
         "description": "Timed click-to-pop accuracy challenge where you pop as many drifting bubbles as you can before the 30-second timer ends.",
         "tags": [
@@ -3992,7 +4006,6 @@
             "Game"
         ],
         "links": {
-            "live": "./projects/stack-builder/index.html"
             "live": "./projects/bubble-pop-blitz/index.html"
         },
         "author": {
@@ -4000,7 +4013,6 @@
             "github": "https://github.com/Gupta-02"
         }
     },
-
 {
   "title": "Digital Burnout Awareness 🔥",
   "description": "An awareness page that explains digital burnout, its symptoms, causes, and simple prevention tips.",
@@ -4830,9 +4842,7 @@
     },
     "author": {
         "name": "PavanKarthik",
-        "github": "https://github.com/pavanakarthik12",
-      "name": "PavanKarthik",
-      "github": "https://github.com/pavanakarthik12"
+        "github": "https://github.com/pavanakarthik12"
     }
   },
   {
@@ -4854,6 +4864,22 @@
 {
     "title": "Color Match Rush",
     "description": "A timed color-matching puzzler where you swap tiles to match 3-in-a-row with cascading matches under timer pressure. Mouse/touch drag input.",
+    "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Game"
+    ],
+    "links":{
+        "live": "./projects/color-match-rush/index.html"
+    },
+    "author": {
+        "name": "Gupta-02",
+        "github": "https://github.com/Gupta-02"
+    }
+},
+{
+    
     "title": "Rhythm Tapper",
     "description": "A simple rhythm-timing game where you tap notes on the beat for a streak score. Falling notes; tap on beat; streak multiplier. Keyboard or click input.",
     "tags": [
@@ -4863,7 +4889,6 @@
         "Game"
     ],
     "links": {
-        "live": "./projects/color-match-rush/index.html"
         "live": "./projects/rhythm-tapper/index.html"
     },
     "author": {
@@ -4905,6 +4930,22 @@
     "author": {
         "name": "Gupta-02",
         "github": "https://github.com/Gupta-02"
+    }
+},
+{
+    "title": "Blindness Simulation Game",
+    "description": "A web-based game that simulates the experience of navigating environments with visual impairments, helping users understand the challenges faced by visually impaired individuals.",
+    "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    "links": {
+        "live": "./projects/color-blindness-simulation/index.html"
+    },
+    "author" : {
+        "name":"Tushar Sonawane",
+        "github": "https://github.com/Tushar-sonawane06"
     }
 }
 ]
