@@ -4838,6 +4838,26 @@
         "name":"PavanKarthik",
         "github":"https://github.com/pavanakarthik12"
     }
+},
+{
+    "title": "Shape Shooter",
+    "description": "A twin-stick-lite survival game where you rotate and shoot incoming shapes. Survive escalating waves with keyboard movement and mouse aiming, collect power-ups to enhance your abilities.",
+    "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Game",
+        "Canvas",
+        "Shooter",
+        "Survival"
+    ],
+    "links": {
+        "live": "./projects/shape-shooter/index.html"
+    },
+    "author": {
+        "name": "Gupta-02",
+        "github": "https://github.com/Gupta-02"
+    }
 }
 ]
 
