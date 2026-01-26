@@ -83,7 +83,6 @@
             "github": "https://github.com/your-github-username"
         }
     },
-
     {
         "title": "Advanced Text Case Converter",
         "description": "A powerful text utility that converts text into multiple cases including uppercase, lowercase, sentence case, title case, and toggle case with live preview, undo history, and keyboard shortcuts.",
@@ -99,6 +98,22 @@
         "author": {
             "name": "Amballa Sneha",
             "github": "https://github.com/Sneha-Amballa"
+        }
+    },
+    {
+        "title": "Word Counter",
+        "description": "A minimal and responsive word counting utility that provides real-time statistics for words, characters, and characters without spaces. Designed with a clean UI for quick and accurate text analysis.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/word-counter/"
+        },
+        "author": {
+            "name": "Anvesha",
+            "github": "https://github.com/your-github-username"
         }
     },
     {
