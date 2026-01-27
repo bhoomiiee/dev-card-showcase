@@ -6065,20 +6065,19 @@
     }
   },
   {
-    "title": "Retro Racing (Top-Down)",
-    "description": "A top-down retro racing game where players avoid obstacles and survive as long as possible. Features vertical scrolling road, player-controlled car, random obstacle spawning, and score based on survival time with increasing difficulty.",
+    "title": "Retro Terminal Website",
+    "description": "A website that mimics an old computer terminal interface with command-based navigation. Features typing animation, green-on-black terminal UI, and interactive commands like help, about, and projects.",
     "tags": [
       "HTML",
       "CSS",
       "JavaScript",
-      "Game",
-      "Canvas",
+      "Terminal",
       "Retro",
-      "Racing",
-      "Arcade"
+      "Interactive",
+      "Portfolio"
     ],
     "links": {
-      "live": "./projects/retro-racing/"
+      "live": "./projects/retro-terminal-website/"
     },
     "author": {
       "name": "Sneha-Amballa",
