@@ -20,6 +20,23 @@
         }
     },
     {
+        "title": "ResultWise - Universal Result Analyzer",
+        "description": "A flexible and user-friendly result analysis utility that allows users to dynamically add any subjects and marks. It calculates total marks, percentage, grade, and pass/fail status while providing clear performance feedback, all within a clean and responsive interface.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/result-analyzer/"
+        },
+        "author": {
+            "name": "Anvesha",
+            "github": "https://github.com/your-github-username"
+        }
+    },
+
+    {
         "title": "Gravity Golf",
         "description": "A physics-based puzzle golf game where players launch a ball around planets using gravity wells to reach the goal flag. Features slingshot mechanics, orbital trajectories, par scoring system, and progressive difficulty levels.",
         "tags": [
