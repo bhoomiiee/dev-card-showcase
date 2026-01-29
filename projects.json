@@ -6817,23 +6817,11 @@
     }
   },
   {
-    "title": "Quantum Maze",
-    "description": "Navigate a maze that shifts when observed. Features perspective-based 3D logic where camera angle changes the maze layout.",
-    "tags": ["HTML", "CSS", "JavaScript", "Three.js", "Game", "3D", "Puzzle", "Logic"],
+    "title": "Space Junk Cleanup",
+    "description": "Clear orbital debris using grappling tools. Features physics object manipulation, tethers, momentum management, and fuel limits.",
+    "tags": ["HTML", "CSS", "JavaScript", "Game", "Physics", "Space", "Simulation"],
     "links": {
-      "live": "./projects/Quantum-Maze/"
-    },
-    "author": {
-      "name": "Gupta-02",
-      "github": "https://github.com/Gupta-02"
-    }
-  },
-  {
-    "title": "Battle Dice 3D",
-    "description": "Roll giant dice to attack enemies in physics-driven combat. Features different dice types affecting damage and abilities with mouse aiming and keyboard controls.",
-    "tags": ["HTML", "CSS", "JavaScript", "Three.js", "Cannon.js", "Game", "3D", "Physics", "Strategy"],
-    "links": {
-      "live": "./projects/Battle-Dice-3D/"
+      "live": "space-junk-cleanup.html"
     },
     "author": {
       "name": "Gupta-02",
