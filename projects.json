@@ -7278,6 +7278,33 @@
       "name": "Gupta",
       "github": "https://github.com/Gupta-02"
     }
+  },
+  {
+    "title": "Activity Summary Dashboard 🚴",
+    "description": "A comprehensive activity tracking dashboard that provides unified insights into daily activities. Features activity logging with time-spent graphs, wellness scoring, personalized tips, and detailed analytics. Includes categorization of physical, mental, social, and work activities with interactive charts and data export functionality.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Chart.js",
+      "Dashboard",
+      "Activity Tracking",
+      "Data Visualization",
+      "Wellness",
+      "Analytics",
+      "Local Storage",
+      "Responsive",
+      "Productivity",
+      "Health Monitoring",
+      "Time Management"
+    ],
+    "links": {
+      "live": "./projects/activity-summary-dashboard/"
+    },
+    "author": {
+      "name": "Gupta",
+      "github": "https://github.com/Gupta-02"
+    }
   }
 ]
 
