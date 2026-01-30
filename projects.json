@@ -1816,6 +1816,23 @@
     "github": "https://github.com/CodeMaster" } 
     },
     {
+        "title": "AI image editor",
+        "description": "A web application that allows users to edit images using AI-powered tools such as background removal, color enhancement, and style transfer.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "TensorFlow.js"
+        ],
+        "links": {
+            "live": "./projects/ai-image-editor/index.html"
+        },
+        "author": {
+            "name": "CodeMaster",
+            "github": "https://github.com/CodeMaster11000"
+        }
+    },
+    {
         "title": "Virtual Coffee Maker",
         "description": "A fun and interactive virtual coffee maker where users can customize their drink with various options like temperature, sugar level, and toppings.",
         "tags": [
@@ -7209,3 +7226,5 @@
       "name": "Gupta",
       "github": "https://github.com/Gupta-02"
     }
+}
+]
