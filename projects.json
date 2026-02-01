@@ -20,6 +20,8 @@
     {
     "title": "DiffCraft – Text Diff Checker",
     "description": "A modern text difference checker that compares two texts in real time and highlights added, removed, and modified lines. Includes similarity percentage, ignore case and whitespace options, dark mode, and a clean editor-style UI for an efficient comparison experience.",
+    "title": "One-Sentence Summary Tool",
+    "description": "A clean, utility-focused web tool that converts long-form text into a single clear and meaningful sentence. Designed with a modern, responsive interface, adjustable summary length, clarity feedback, and productivity-friendly features for quick understanding.",
     "tags": [
         "HTML",
         "CSS",
@@ -29,6 +31,11 @@
     ],
     "links": {
         "live": "./projects/text-difference-check/"
+        "Text Utility",
+        "Productivity"
+    ],
+    "links": {
+        "live": "./projects/one-sentence-summary-tool/"
     },
     "author": {
         "name": "Anvesha",
@@ -75,6 +82,25 @@
             "name": "Anvesha",
             "github": "https://github.com/your-github-username"
   }
+},
+{
+    "title": "Memory Timer",
+    "description": "A responsive brain-training game that challenges users to memorize and recall words within a time limit. The game evaluates answers in real time on space key press, features multiple difficulty levels, accuracy tracking, streaks, and persistent high scores for an engaging, keyboard-first experience.",
+    "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Game",
+        "Productivity",
+        "Memory Training"
+    ],
+    "links": {
+        "live": "./projects/memory-timer/"
+    },
+    "author": {
+        "name": "Anvesha",
+        "github": "https://github.com/your-github-username"
+    }
 },
     {
         "title": "DrumsJS - Auto-Play Drum Machine",
@@ -787,15 +813,15 @@
         }
     },
      {
-        "title": "WebKernal",
-        "description": "A lightweight web browser kernel that supports basic browsing functionalities such as loading web pages, navigating back and forth, and refreshing pages. Designed for simplicity and ease of use.",
+        "title": "Typing heatmap",
+        "description": "A web application that visualizes keyboard typing heatmap, showing the frequency of key presses with color-coded intensity levels. Features include real-time updates, reset functionality, and a clear, user-friendly interface.",
         "tags": [
             "HTML",
             "CSS",
             "JavaScript"
         ],
         "links": {
-            "live": "./projects/webkernal/index.html"
+            "live": "./projects/Typing_Heatmap/index.html"
         },
         "author": {
             "name": "Omkar",
@@ -997,6 +1023,22 @@
         "author": {
             "name": "Neeru",
             "github": "https://github.com/neeru24"
+        }
+    },
+     {
+        "title": "Roadmap",
+        "description": "An interactive roadmap guiding users through the essential skills and technologies needed to become a proficient full stack developer. Features multiple tracks, checkpoints, and tooltips for detailed learning paths.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/roadmap/index.html"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
         }
     },
       {
@@ -1616,6 +1658,54 @@
             "github": "https://github.com/neeru24"
         }
     },
+                {
+        "title": "Memory Trainer",
+        "description": "A web application that helps users train their memory with various exercises and challenges.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/MEMORYTRAINER/index.html"
+        },
+        "author": {
+            "name": "Neeru",
+            "github": "https://github.com/neeru24"
+        }
+    },
+            {
+        "title": "Daily Self Questions",
+        "description": "A web application that generates daily self-reflection questions to help users improve their self-awareness and personal growth.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/SELFQS/index.html"
+        },
+        "author": {
+            "name": "Neeru",
+            "github": "https://github.com/neeru24"
+        }
+    },
+        {
+        "title": "Vision Board",
+        "description": "A web application that allows users to create and customize their personal vision boards with images, text, and interactive elements.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/VISIONBOARD/index.html"
+        },
+        "author": {
+            "name": "Neeru",
+            "github": "https://github.com/neeru24"
+        }
+    },
     {
         "title": "Country Info App",
         "description": "A web application that provides detailed information about countries worldwide. Users can search for countries, view their flags, capitals, populations, and other relevant data fetched from a public API.",
@@ -2201,6 +2291,23 @@
         ],
         "links": {
             "live": "./projects/ai-image-editor/index.html"
+        },
+        "author": {
+            "name": "CodeMaster",
+            "github": "https://github.com/CodeMaster11000"
+        }
+    },
+    {
+        "title": "Virtual Analytics Dashboard",
+        "description": "A sleek and modern analytics dashboard that displays key performance indicators (KPIs) and data visualizations using charts and graphs. Features responsive design and customizable widgets for a personalized user experience.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "socket.io"
+        ],
+        "links": {
+            "live": "./projects/virtual-analytics/index.html"
         },
         "author": {
             "name": "CodeMaster",
