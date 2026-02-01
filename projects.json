@@ -1,5 +1,23 @@
 [
     {
+        "title": "Daily Fun Fact Challenge",
+        "description": "A gamified daily fun fact application where users guess whether a fact is true or false across multiple difficulty levels. Features a point-based reward system, winner status progression, and a responsive, visually engaging interface for learning through play.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Gamification",
+            "Learning"
+        ],
+        "links": {
+            "live": "./projects/daily-fun-fact/"
+        },
+        "author": {
+            "name": "Anvesha",
+            "github": "https://github.com/your-github-username"
+        }
+    },
+    {
         "title": "Keyboard Drum Kit",
         "description": "An interactive drum machine where keyboard keys trigger realistic drum sounds using the Web Audio API. Press Q, W, E, R, A, S, D, F keys to play different drum samples including kick, snare, hi-hat, tom, clap, cymbal, percussion, and bass. Features smooth animations, visual feedback, and encourages playful exploration of keyboard input.",
         "tags": [
@@ -99,6 +117,24 @@
         }
     },
     {
+  "title": "Truth & Dare Mini Game",
+  "description": "A fun and interactive Truth & Dare mini game with a gamified scoring system, animated cards, and a clean modern UI. Designed to be fully responsive and engaging, making it ideal for casual play and party-style interactions across devices.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Game",
+    "UI/UX"
+  ],
+  "links": {
+    "live": "./projects/truth-dare/"
+  },
+  "author": {
+    "name": "Anvesha",
+    "github": "https://github.com/your-github-username"
+  }
+},
+    {
         "title": "Parkour Grid",
         "description": "Time-based parkour challenges in abstract 3D blocks with momentum-based movement, wall-runs, slides, checkpoints, and replay ghosts. Features modular level design and endless mode.",
         "tags": [
@@ -173,6 +209,24 @@
             "github": "https://github.com/omkarhole"
         }
     },
+    {
+        "title": "Lucky Color of the Day",
+        "description": "A playful and interactive mini app that reveals a user’s lucky color for the day. Features a fun, bubbly UI, daily color logic, luck points, and progression levels to create a delightful and engaging experience.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Fun UI",
+            "Gamification"
+        ],
+        "links": {
+            "live": "./projects/lucky-color/"
+        },
+        "author": {
+            "name": "Anvesha",
+            "github": "https://github.com/your-github-username"
+  }
+},
          {
         "title": "ClamRoute",
         "description": "A web-based bio sphere simulator that allows users to create and manage a self-sustaining ecosystem. Users can add plants, animals, and environmental factors to observe interactions and balance within the bio sphere.",
@@ -205,6 +259,25 @@
             "github": "https://github.com/your-github-username"
         }
     },
+    {
+        "title": "Keyword Extractor",
+        "description": "A playful and interactive Keyword Extractor mini app with a unique side-by-side layout. Paste your text on the left and see extracted keywords on the right, displayed with fun colors and dynamic styling. Includes word frequency sorting, responsive design, and interactive buttons for extraction and reset.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "UI/UX",
+            "Fun",
+            "Utility"
+        ],
+        "links": {
+            "live": "./projects/keyword-extractor/"
+        },
+        "author": {
+            "name": "Anvesha",
+            "github": "https://github.com/your-github-username"
+        }
+        },
       {
         "title": "Attention Span self tester",
         "description": "A web application that tests and improves users' attention span through interactive exercises and games designed to enhance focus and concentration.",
@@ -253,6 +326,25 @@
             "github": "https://github.com/omkarhole"
         }
     },
+    {
+        "title": "One Card Draw",
+        "description": "A playful one-tap card drawing mini game with a fun arcade-style UI. Features a smooth 3D card flip animation, mood-based outcomes, and a simple points system that makes each draw feel exciting and rewarding. Fully responsive and designed for a delightful game-like experience.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Game",
+            "UI/UX",
+            "Fun"
+        ],
+        "links": {
+            "live": "./projects/one-card-draw/"
+        },
+        "author": {
+            "name": "Anvesha",
+            "github": "https://github.com/your-github-username"
+        }
+        },
   {
         "title": "Digital Energy Meter",
         "description": "A digital energy meter that displays real-time energy consumption and provides controls for managing energy usage. Features include live energy flow visualization, adjustable drain rate, quick charge, pause drain, and reset functions, all within a clean and responsive interface.",
@@ -824,6 +916,22 @@
         }
     },
     {
+        "title": "synthlab",
+        "description": "A web-based synthesizer application that allows users to create and manipulate sounds using various waveforms, filters, and effects. Features a user-friendly interface for real-time sound design and experimentation.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/synthlab/"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
+        }
+    },
+    {
     "title": "Hovercraft Arena — Realistic Combat Edition",
     "description": "A modern, physics-driven hovercraft combat game featuring realistic drift-based movement, intelligent enemy AI, boost mechanics, camera shake, and a premium futuristic arena design for an immersive battle experience.",
     "tags": [
@@ -883,6 +991,22 @@
         ],
         "links": {
             "live": "./projects/hsl-color-game/index.html"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
+        }
+    },
+          {
+        "title": "VectorForge",
+        "description": "A vector graphics editor that allows users to create and manipulate vector shapes, paths, and designs. Features include drawing tools, shape transformations, color fills, and export options for SVG files.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/VectorForge/index.html"
         },
         "author": {
             "name": "Omkar",
@@ -1474,6 +1598,38 @@
             "github": "https://github.com/neeru24"
         }
     },
+            {
+        "title": "Daily Self Questions",
+        "description": "A web application that generates daily self-reflection questions to help users improve their self-awareness and personal growth.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/SELFQS/index.html"
+        },
+        "author": {
+            "name": "Neeru",
+            "github": "https://github.com/neeru24"
+        }
+    },
+        {
+        "title": "Vision Board",
+        "description": "A web application that allows users to create and customize their personal vision boards with images, text, and interactive elements.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/VISIONBOARD/index.html"
+        },
+        "author": {
+            "name": "Neeru",
+            "github": "https://github.com/neeru24"
+        }
+    },
     {
         "title": "Country Info App",
         "description": "A web application that provides detailed information about countries worldwide. Users can search for countries, view their flags, capitals, populations, and other relevant data fetched from a public API.",
@@ -1617,6 +1773,22 @@
         ],
         "links": {
             "live": "./projects/WallpaperGenerator/index.html"
+        },
+        "author": {
+            "name": "Neeru",
+            "github": "https://github.com/neeru24"
+        }
+    },
+    {
+        "title": "Payroll Calculator",
+        "description": "A tool that calculates employee payroll based on hours worked, hourly rate, and deductions.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/payroll/index.html"
         },
         "author": {
             "name": "Neeru",
@@ -3849,6 +4021,22 @@
         ],
         "links": {
             "live": "./projects/Extreme chess/index.html"
+        },
+        "author": {
+            "name": "CodeMaster",
+            "github": "https://github.com/CodeMaster"
+        }
+    },
+    {
+        "title": "Smart campus dashboard",
+        "description": "A web application that provides a dashboard for managing and monitoring various aspects of a smart campus, including attendance, events, and notifications.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/smart-campus-dashboard/index.html"
         },
         "author": {
             "name": "CodeMaster",
@@ -7620,26 +7808,18 @@
     }
   },
   {
-    "title": "Stress Level Tracker 🧠",
-    "description": "A comprehensive mental health monitoring interface for tracking stress levels over time. Features stress scale input (1-10), mood tracking, trigger identification, interactive trend graphs using Chart.js, mood distribution analysis, personalized coping strategies, and AI-powered insights for stress management and mental health awareness.",
+    "title": "Focus Time Tracker",
+    "description": "An advanced focus and productivity tracking UI with timers, productivity graphs, and helpful tips to improve deep work awareness.",
     "tags": [
       "HTML",
       "CSS",
       "JavaScript",
-      "Chart.js",
-      "Mental Health",
-      "Stress Tracking",
-      "Mood Monitoring",
-      "Data Visualization",
-      "Local Storage",
-      "Responsive",
-      "Wellness",
-      "Health Analytics",
-      "Coping Strategies",
-      "Mental Health Awareness"
+      "Productivity",
+      "Timer",
+      "Charts"
     ],
     "links": {
-      "live": "./projects/Stress-Level-Tracker/"
+      "live": "./projects/Focus-Time-Tracker/"
     },
     "author": {
       "name": "Gupta",
